@@ -1,14 +1,4 @@
-# Codetest
 
-> AlphaFX Tech Test
-
-In this repo, you will find all the tools you need to create a working Node.js app with Vue.js.
-
-## The exercise
-
-We would like you to get the data from the API and present it in the page/s as well as save data to the API. Some extra functionality like filtering of the data or developing the UX/UI would be really nice to see.
-
-The content is based on football teams and each team has a few games and teams linked to them. This is meant to be a bit of fun to demonstrate what you know (or can learn) about the technologies we have asked for. There is no right or wrong answer, apart from using jQuery :wink:
 
 ## The end result
 
@@ -71,11 +61,6 @@ For a detailed explanation on Vue.js, check out the [Vue Documentation](https://
 
 [Download Insomnia](https://insomnia.rest/)
 
-The base URL for the api is:
-
-```
-https://alphafx-code-test-api.herokuapp.com/
-```
 
 ##### All data should be assumed to be sent in the POST body (wrapped inside a JSON object) with the following headers:
 
